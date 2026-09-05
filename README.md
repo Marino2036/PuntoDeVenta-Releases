@@ -1,2 +1,2 @@
 # PuntoDeVenta-Releases
-Actualizaciones oficiales del Punto de Venta
+Actualizaciones Oficiales Pv
